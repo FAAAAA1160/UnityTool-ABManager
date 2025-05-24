@@ -11,3 +11,4 @@
 注意:
 需先安装AB包插件
 在Unity的Pacage Manager里面搜索Asset Bundle Browser即可安装
+![示例图片](Inmage)
